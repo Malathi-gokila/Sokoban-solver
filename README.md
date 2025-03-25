@@ -6,7 +6,6 @@
 - [Setup Instructions](#setup-instructions)
 - [Game Controls](#game-controls)
 - [How It Works](#how-it-works)
-- [Credits](#credits)
 
 ## Overview
 The project implements a Sokoban game using Python's Tkinter library. The game presents a series of puzzles where the player must push boxes to their target locations within a grid. The game includes three levels of increasing difficulty, each with its own unique layout and challenges. The user can play manually or use an automated solver to complete the levels.
@@ -82,8 +81,3 @@ The BFS-based solver searches for a valid sequence of moves to solve the puzzle.
 ### 5. Win Condition:
 Once all boxes are placed on goal positions (GB), the player wins the level, and a message box is displayed. The game then closes, and the level selection window appears for the player to choose the next level.
 
-## Credits
-Developed by [Your Name or Team Name].
-
----
-This README provides a structured and easy-to-navigate guide for users to understand, set up, and play the Sokoban game. 🚀
